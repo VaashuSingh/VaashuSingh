@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-[![Hello World, I'm Raja!](assets/header.gif)](https://github.com/VaashuSingh)
+<div align="center">
+
+[![Hello World, I'm Raja!](assets/header.gif)](https://github.com/kshyun28)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
+</div>
 ## 🚀 About Me
 
 🎓 I am Raja Singh, a **Full Stack Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Engineering** and will graduate in mid-2022.
